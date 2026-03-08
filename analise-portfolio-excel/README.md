@@ -36,7 +36,7 @@ Essa carteira apresentou volatilidade menor do que os ativos individuais, eviden
 ![Fronteira Eficiente](images/Fronteira_eficiente.png)
 
 ### Evolução dos Preços
-![Evolução dos Preços](images/Evolução_preços.png)
+![Evolução dos Preços](images/Evolução_Preços.png)
 
 ### Composição da Carteira de Mínima Variância
 ![Carteira de Mínima Variância](images/Alocação_Portfolio_min_variância.png)
